@@ -1,0 +1,31 @@
+body{
+    background-color: pink;
+}
+
+.container{
+
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+h1{
+    margin: 30px;
+    font-family: PT sans;
+    font-size: 4rem;
+    color: salmon;
+}
+p{
+    font-size: 2rem;
+    color: salmon;
+    font-family: PT sans;
+}
+footer{
+    font-family: PT sans;
+    color: sandybrown;
+    font-style: italic;
+    text-align: center;
+}
